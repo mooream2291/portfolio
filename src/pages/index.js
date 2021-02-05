@@ -19,18 +19,17 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Ipsum lorem dolor aliquam ante commodo
+              I am a software developer, creative, and innovator.
               <br />
-              magna sed accumsan arcu neque.
             </h2>
           </header>
           <p>
-            Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc
-            nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae
-            lobortis tortor primis integer massa adipiscing id nisi accumsan
-            pellentesque commodo blandit enim arcu non at amet id arcu magna.
-            Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate
-            lorem neque cubilia.
+          As a chef and self-taught artist I am passionate about creativity, about taking fundamental concepts and building a unique vision. I grew a fascination for software when I realized how technology paralleled my creative processes.
+          <br>
+          </br>
+          <br>
+          </br>
+          I believe that we all have a duty to contribute to maintaining and improving society; technology has given us exponential opportunities to create rapid engagement and growth necessary to do that. Tech can solve so many of the world’s problems through automation, making connecting easier, and providing tools that give a voice to anyone anywhere allowing more people to put their individual or group message and vision out into the world. 
           </p>
           <ul className="actions">
             <li>
@@ -58,9 +57,6 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Get In Touch</h2>
           <p>
-            Accumsan pellentesque commodo blandit enim arcu non at amet id arcu
-            magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem
-            vulputate lorem neque lorem ipsum dolor.
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
@@ -102,25 +98,20 @@ const HomeIndex = () => {
               <ul className="labeled-icons">
                 <li>
                   <h3 className="icon fa-home">
-                    <span className="label">Address</span>
+                    <span className="label"></span>
                   </h3>
-                  1234 Somewhere Rd.
-                  <br />
-                  Nashville, TN 00000
-                  <br />
-                  United States
                 </li>
                 <li>
                   <h3 className="icon fa-mobile">
                     <span className="label">Phone</span>
                   </h3>
-                  000-000-0000
+                  (775) 300-9874
                 </li>
                 <li>
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">hello@untitled.tld</a>
+                  <a href="#">mooream2291@gmail.com</a>
                 </li>
               </ul>
             </div>

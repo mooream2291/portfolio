@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Footer from './Footer'
-import avatar from '../assets/images/avatar.jpg'
+import avatar from '../assets/images/me.jpg'
 
 const Header = () => (
   <header id="header">
@@ -10,11 +10,12 @@ const Header = () => (
         <img src={avatar} alt="" />
       </a>
       <h1>
-        <strong>I am Strata</strong>, a super simple
+        <strong>Ashley M. Moore</strong>
         <br />
-        responsive site template freebie
         <br />
-        crafted by <a href="http://html5up.net">HTML5 UP</a>.
+        "Do not go where the path may lead, go instead where there is no path and leave a trail."-- Ralph Waldo Emerson
+        <br />
+        <a href="http://html5up.net"></a>
       </h1>
     </div>
     <Footer />
